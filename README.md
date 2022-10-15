@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### my information
+- 🔭 I’m currently working on RoboMaster Horizon_Robot_Team of NCST.
+- 🌱 I’m currently learning SLAM, High-Performance Computing, ROS, Deep Learning, digital signal processing, MatLab and Computer Graphics and so on.
+- 😄 I love piano music, even though I can't play it. 
+- ⚡ In the github, I'd like to communicate with other RMers and friends. 
+- 📫 How to reach me:  You can contact me through QQ:2041671738 or WeChat:15076188535. 
+- ✨ I like 
